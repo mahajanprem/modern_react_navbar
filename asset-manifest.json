@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modern-react-navbar/static/css/main.9391b943.chunk.css",
+    "main.js": "/modern-react-navbar/static/js/main.9b333fa5.chunk.js",
+    "main.js.map": "/modern-react-navbar/static/js/main.9b333fa5.chunk.js.map",
+    "runtime-main.js": "/modern-react-navbar/static/js/runtime-main.aec417fb.js",
+    "runtime-main.js.map": "/modern-react-navbar/static/js/runtime-main.aec417fb.js.map",
+    "static/css/2.150d169a.chunk.css": "/modern-react-navbar/static/css/2.150d169a.chunk.css",
+    "static/js/2.851bb387.chunk.js": "/modern-react-navbar/static/js/2.851bb387.chunk.js",
+    "static/js/2.851bb387.chunk.js.map": "/modern-react-navbar/static/js/2.851bb387.chunk.js.map",
+    "index.html": "/modern-react-navbar/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/modern-react-navbar/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9391b943.chunk.css.map": "/modern-react-navbar/static/css/main.9391b943.chunk.css.map",
+    "static/js/2.851bb387.chunk.js.LICENSE.txt": "/modern-react-navbar/static/js/2.851bb387.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec417fb.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.851bb387.chunk.js",
+    "static/css/main.9391b943.chunk.css",
+    "static/js/main.9b333fa5.chunk.js"
+  ]
+}
